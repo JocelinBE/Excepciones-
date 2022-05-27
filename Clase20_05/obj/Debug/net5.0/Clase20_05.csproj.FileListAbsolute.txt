@@ -1,0 +1,16 @@
+C:\Users\Jaime\source\repos\Clase20_05\Clase20_05\bin\Debug\net5.0\Clase20_05.exe
+C:\Users\Jaime\source\repos\Clase20_05\Clase20_05\bin\Debug\net5.0\Clase20_05.deps.json
+C:\Users\Jaime\source\repos\Clase20_05\Clase20_05\bin\Debug\net5.0\Clase20_05.runtimeconfig.json
+C:\Users\Jaime\source\repos\Clase20_05\Clase20_05\bin\Debug\net5.0\Clase20_05.runtimeconfig.dev.json
+C:\Users\Jaime\source\repos\Clase20_05\Clase20_05\bin\Debug\net5.0\Clase20_05.dll
+C:\Users\Jaime\source\repos\Clase20_05\Clase20_05\bin\Debug\net5.0\ref\Clase20_05.dll
+C:\Users\Jaime\source\repos\Clase20_05\Clase20_05\bin\Debug\net5.0\Clase20_05.pdb
+C:\Users\Jaime\source\repos\Clase20_05\Clase20_05\obj\Debug\net5.0\Clase20_05.csproj.AssemblyReference.cache
+C:\Users\Jaime\source\repos\Clase20_05\Clase20_05\obj\Debug\net5.0\Clase20_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime\source\repos\Clase20_05\Clase20_05\obj\Debug\net5.0\Clase20_05.AssemblyInfoInputs.cache
+C:\Users\Jaime\source\repos\Clase20_05\Clase20_05\obj\Debug\net5.0\Clase20_05.AssemblyInfo.cs
+C:\Users\Jaime\source\repos\Clase20_05\Clase20_05\obj\Debug\net5.0\Clase20_05.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\source\repos\Clase20_05\Clase20_05\obj\Debug\net5.0\Clase20_05.dll
+C:\Users\Jaime\source\repos\Clase20_05\Clase20_05\obj\Debug\net5.0\ref\Clase20_05.dll
+C:\Users\Jaime\source\repos\Clase20_05\Clase20_05\obj\Debug\net5.0\Clase20_05.pdb
+C:\Users\Jaime\source\repos\Clase20_05\Clase20_05\obj\Debug\net5.0\Clase20_05.genruntimeconfig.cache
